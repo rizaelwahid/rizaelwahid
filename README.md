@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rizaelwahid&color=green" />
-  <img src="https://wakatime.com/badge/user/8a366a1f-517c-41a4-970a-a5a0aa6abcfe/project/5200f862-5933-46a6-b477-a44482fa06b9.svg" />
+  <img src="https://wakatime.com/badge/user/8a366a1f-517c-41a4-970a-a5a0aa6abcfe.svg" alt="Total time coded since Sep 5 2024" />
 </p>
 
 ##
